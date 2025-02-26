@@ -31,9 +31,10 @@ Welcome to my GitHub profile! I am a passionate software developer with a strong
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 ### 💡 Methodologies and Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logo=kanban&logoColor=white)
 ![XP](https://img.shields.io/badge/Extreme_Programming-000000?style=for-the-badge&logo=extreme-programming&logoColor=white)
