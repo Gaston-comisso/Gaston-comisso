@@ -44,11 +44,11 @@ Welcome to my GitHub profile! I am a passionate software developer with a strong
 
 ## 🎫 Featured Projects
 
-### 🍕 [Pizzería Argento](https://github.com/Gaston-Comisso/PizzeriaArgento)
-An online pizza ordering system where administrators manage products and track orders.
-
 ### 🎨 [Portfolio Website](https://gaston-comisso.github.io/Porfolio-Marcelo-Comisso/)
 An interactive personal portfolio developed with HTML, CSS, JavaScript, and JSON to showcase my projects.
+
+### 🍕 [Pizzería Argento](https://github.com/Gaston-Comisso/PizzeriaArgento)
+An online pizza ordering system where administrators manage products and track orders.
 
 ### ⚽ [Copa América Voting Platform](https://github.com/Gaston-Comisso/Proyecto-copaAmerica)
 The Copa América Voting Platform is a web application that allows users to vote for the best player and the best team of the Copa América. It also offers an updated news section about the tournament. The platform features registration, login, secure voting, and real-time statistics visualization, all in a user-friendly and modern interface.
