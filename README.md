@@ -11,6 +11,11 @@
 
 Welcome to my GitHub profile! I am a passionate software developer with a strong interest in web development and backend technologies. I enjoy solving complex problems and learning new technologies. I am committed to improving my skills and working as part of a team to create innovative applications that enhance user experience.
 
+I also have a portfolio showcasing my work in web development and other projects. Feel free to explore it!
+
+### 🎨 [Portfolio Website](https://gaston-comisso.github.io/Porfolio-Marcelo-Comisso/)
+An interactive personal portfolio developed with HTML, CSS, JavaScript, and JSON to showcase my projects.
+
 ---
 
 ## 🌟 Technologies and Tools
@@ -44,8 +49,8 @@ Welcome to my GitHub profile! I am a passionate software developer with a strong
 
 ## 🎫 Featured Projects
 
-### 🎨 [Portfolio Website](https://gaston-comisso.github.io/Porfolio-Marcelo-Comisso/)
-An interactive personal portfolio developed with HTML, CSS, JavaScript, and JSON to showcase my projects.
+### ⚙️ [Taller Mecánico API](https://taller-mecanico-api-1.onrender.com/)
+A web application for a car workshop that manages clients, vehicles, and repairs. The backend is built with Flask and Python, and the frontend uses ReactJS. The app allows users to manage their vehicle repairs, schedule appointments, and track progress.
 
 ### 🍕 [Pizzería Argento](https://github.com/Gaston-Comisso/PizzeriaArgento)
 An online pizza ordering system where administrators manage products and track orders.
